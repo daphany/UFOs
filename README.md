@@ -16,8 +16,8 @@ A dynamic webpage that allow for user interaction is created. Users are able to 
 
 ## Summary:
 ### Drawback:
-User has to enter the full name of the criteria to match the data with the criteria.
+User has to enter the full name of the criteria in order to match the data.
 ### Recommendations for further development:
-1. Add "toLowerCase()" to the input value so even if the user enter uppercase letter, code will convert it to lowercase to match the our data which are all in lowercase letters.
-2. To make it more reactive, we can make the seach box to filter out the data that doesn't match the input letter/number as the user is typing. In this case, another if statment that includes ".style.display = 'none' " needs to be added. 
+1. Add "toLowerCase()" to the input value so even if the users enter uppercase letter, code will convert it to lowercase to match our data.js file which is all in lowercase letters.
+2. To make the search process more reactive, we can make the seach box to filter out the data that doesn't match the input letter/number as the user is typing. In this case, we will add another if statment that includes ".style.display = 'none' ".
 
