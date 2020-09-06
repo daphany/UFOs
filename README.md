@@ -8,9 +8,9 @@ A dynamic webpage that allow for user interaction is created. Users are able to 
 ## Result:
 
 #### step 1: Open the website.
-<img src="static/images/step1.PNG" width="700" height="400"> /n
+<img src="static/images/step1.PNG" width="700" height="400"> 
 #### step 2: enter the full name of the criteria in the appropriate filter search box. Ex. enter "bonita" in city box. *Full name must be used.
-<img src="static/images/step2.PNG" width="700" height="400"> /n
+<img src="static/images/step2.PNG" width="700" height="400"> 
 #### step 3: press enter and the object that match the criteria will show up.
 <img src="static/images/step3.PNG" width="700" height="400">
 
