@@ -6,3 +6,15 @@ body {
     background-size: 25% 100%;
     text-align: center;
 }
+<style>
+      h1,h2,h3,h4,h5{
+          font-family: 'Noto Serif', serif;
+          
+    
+      }
+      form, ul, li{
+        font-family: 'inherit'; font-size:1 rem;
+      }
+
+
+    
